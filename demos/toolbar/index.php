@@ -133,8 +133,8 @@
 		<div data-demo-html="true" data-demo-css="#footer-abs-buttons">
 			<div data-role="footer">
 				<h2>Footer with left/right buttons</h2>
-				<a href="#" class="ui-btn ui-corner-all ui-shadow ui-btn-inline ui-mini ui-btn-left">Left button</a>
-				<a href="#" class="ui-btn ui-corner-all ui-shadow ui-btn-inline ui-mini ui-btn-right">Right button</a>
+				<a href="#" class="ui-btn ui-corner-all ui-shadow ui-btn-inline ui-mini ui-btn-left ui-btn-icon-left ui-icon-power">Quit</a>
+				<a href="#" class="ui-btn ui-corner-all ui-shadow ui-btn-inline ui-mini ui-btn-right ui-btn-icon-right ui-icon-carat-r">Next</a>
 			</div>
 		</div>
 
